@@ -11,4 +11,4 @@ LoRaWAN（ABP）での接続サンプルです。
     * Arduino用のLMiCライブラリ (https://github.com/matthijskooijman/arduino-lmic)
     * Arduino用のLoRaライブラリ (https://github.com/sandeepmistry/arduino-LoRa)
 * 日本で使用する場合、設定周波数の修正が必要です。
-    * 周波数の設定はLMiCライブラリの修正でおこないます。
+    * 周波数の設定はLMiCライブラリの修正でおこないます。
